@@ -5,7 +5,7 @@
 
 ### Banners
 - Normal
-<img src="/main/banner/b_banner_git.png" title="bizio.me Banner">
+<img src="https://github.com/bizio-me/branding/blob/main/branding/main/banner/b_banner_git.png" title="bizio.me Banner">
 
 ## Credits
 - [bizio.me](https://github.com/bizio-me)
