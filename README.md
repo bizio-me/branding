@@ -1,0 +1,12 @@
+# bizio.me branding
+
+### Logo
+<img src="/main/logo/b_logo_black.png" width="60%" height="60%" title="bizio.me Logo">
+
+### Banners
+- Normal
+<img src="/main/banner/b_banner_git.png" title="bizio.me Banner">
+
+## Credits
+- [bizio.me](https://github.com/bizio-me)
+- [vicvenpet](https://github.com/vicvenpet)
