@@ -1,7 +1,7 @@
 # bizio.me branding
 
 ### Logo
-<img src="/main/logo/b_logo_black.png" width="60%" height="60%" title="bizio.me Logo">
+<img src="/branding/blob/main/branding/main/logo/b_logo_black.png" width="60%" height="60%" title="bizio.me Logo">
 
 ### Banners
 - Normal
